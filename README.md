@@ -12,9 +12,13 @@ Display of running background jobs.
 Compilation and execution
 ----------
 cd ensimag-shell
+
 cd build
+
 cmake ..
+
 make
+
 ./ensishell
 
 Commands to execute
